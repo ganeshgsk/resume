@@ -1,48 +1,39 @@
-Christophe-Marie Duquesne
+Sarath Chandra Jiguru
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Specialties: Java, Python, Hadoop, Linux, Data Engineering\
+>  Masters in CSE MIT, Manipal
 
 ----
 
 Corporate Experience
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+Since 2014 January (1 Year 3 months)
+:   *Associate Data Engineer for [AdNear](https://adnear.com/)*
+    (Bangalore, India).
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    User Segmentation
+    Log Ingestion
+    
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+2013 September-2013 November (4 months)
+:   *Associate Data Engineer for
+    [DeltaX](http://www.deltax.com/)* (Bangalore, India).
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+    Targetted Advertising
+    Log ingestion
+    Real time data visualization - prototype
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+2012 July-2013 July (1 year)
+:   *Internship at [Verisign Inc](http://www.verisigninc.com/)*
+    (Bangalore, India).
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
-
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
+    Internet Profiling Service.
+    Clustering web pages(home pages).
+    Analysis of social sharing habits
 
 Selected Open Source Contributions
 ----------------------------------
