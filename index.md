@@ -8,7 +8,7 @@ Sarath Chandra Jiguru
 
 ----
 
-Experience (1 years 7 months + 1 year internship)
+Experience (2 years 1 month(s) + 1 year internship)
 --------------------
 
 Since 2014 Jan 
@@ -24,7 +24,9 @@ Since 2014 Jan
     
     **Log Ingestion**(Java, Python): One of the developers for a full fledged Log ingestion system built at AdNear. The project is responsible for absorbing unremitting log messages from message queues, and storing them to a central store.
     
-    Having 1 Year 3 months experience.
+    **Analytics API**(Web Services): Responsible to maintain different count stores and to develop API endpoints to retrieve various aggregated counts, which were presented to customers as insights.
+
+    Having 1 Year 9 months experience.
 
 2013 Aug-Nov
 :   *Associate Data Engineer at
@@ -75,6 +77,8 @@ Kafka
 Storm
 :   Confident. Had written code application logic using bolts and spouts concept.
 
+Dropwizard
+:	Confident. Written production ready code. 
 
 Education
 ---------
@@ -124,8 +128,10 @@ LinkedIn
 :   [Sarath Chandra Jiguru](https://in.linkedin.com/in/sarathjiguru)
 
 Stackoverflow
-:   [Sarath](http://stackoverflow.com/users/2005230/tvastr)
+:   [sarathjiguru](http://stackoverflow.com/users/2005230/tvastr)
 
+GitHub
+:	[sarathjiguru](https://github.com/sarathjiguru)
 ----
 
 > <sarath.j9@gmail.com> • +91 903 511 6947 • 24 years old (21 July 1990)\
